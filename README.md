@@ -65,7 +65,6 @@ I also run [**Flo Stack Studio**](https://flostackstudio.com), a digital media s
 
 **Shipped so far**
 
-* ✅ Moderated *"The Future of Visual Journalism is Decolonized"* at SXSW 2026, with editors from The Marshall Project and The 19th
 * ✅ Closed out four months of system design on J-SOS: architecture, threat model, MVP scope, and stack decisions
 * ✅ Went deep on mobile and security architecture, which was the goal I was least sure I'd get to
 
