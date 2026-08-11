@@ -3,8 +3,8 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:a7c7e7,50:d4b8e0,100:f2b8c6&height=220&section=header&text=hey,%20i%27m%20kat%20%F0%9F%95%BA%F0%9F%8F%BE&fontSize=42&fontColor=2d2d2d&fontAlignY=35&desc=full%20stack%20engineer%20%C2%B7%20ui%2Fux%20designer%20%C2%B7%20remote%2C%20any%20timezone&descSize=16&descAlignY=55&descColor=4a4a4a" alt="hey, i'm kat" width="100%" />
 
+<a href="https://linkedin.com/in/katariascontreras"><img src="https://img.shields.io/badge/LinkedIn-2d2d2d?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="https://flostackstudio.com"><img src="https://img.shields.io/badge/flostack%20studio-2d2d2d?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
-<a href="https://linkedin.com/in/katcondev"><img src="https://img.shields.io/badge/LinkedIn-2d2d2d?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="mailto:kat@authoritycollective.org"><img src="https://img.shields.io/badge/say%20hello-2d2d2d?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 
 </div>
